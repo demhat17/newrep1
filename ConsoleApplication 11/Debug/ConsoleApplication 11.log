@@ -1,0 +1,6 @@
+﻿  ConsoleApplication 11.cpp
+C:\Users\DX\Desktop\c++ end\ConsoleApplication 11\ConsoleApplication 11\ConsoleApplication 11.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\DX\Desktop\c++ end\ConsoleApplication 11\ConsoleApplication 11\ConsoleApplication 11.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DX\Desktop\c++ end\ConsoleApplication 11\ConsoleApplication 11\ConsoleApplication 11.cpp(24,13): warning C4566: character represented by universal-character-name '\u00F6' cannot be represented in the current code page (1256)
+C:\Users\DX\Desktop\c++ end\ConsoleApplication 11\ConsoleApplication 11\ConsoleApplication 11.cpp(24,13): warning C4566: character represented by universal-character-name '\u00DF' cannot be represented in the current code page (1256)
+  ConsoleApplication 11.vcxproj -> C:\Users\DX\Desktop\c++ end\ConsoleApplication 11\Debug\ConsoleApplication 11.exe
